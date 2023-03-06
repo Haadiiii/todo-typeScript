@@ -142,7 +142,6 @@ const Todo = () => {
                          onClick={() => deleteTodo(todo.id)}
                         >Delete</button>
                      </div>
-                     
                     ))}
                 </ul>
             </div>
