@@ -27,7 +27,7 @@
 # 📖 [Todo-TypeScript] <a name="about-project"></a>
 
 
-**[Todo-TypeScript]** is a simple todo app built with TypeScript. It is a simple project to learn TypeScript, and it is a part of the [The Odin Project](https://www.theodinproject.com/)'s curriculum, [TypeScript](https://www.theodinproject.com/courses/javascript/lessons/typescript) section, here you can add, edit, and delete todos.
+**[Todo-TypeScript]** is a simple todo app built with TypeScript. It is a simple project to learn TypeScript, here you can add, edit, and delete todos, and they will be saved in your local storage.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,7 +84,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone
+  git clone github.com:Haadiiii/todo-typeScript.git
 ```
 
 ### Install
@@ -108,13 +108,11 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+## 👥 Author <a name="author"></a>
 
 👤 **Hamid ALi**
 
-- GitHub: [Haadiiii](https//:github.com/Haadiiii)
+- GitHub: [Haadiiii](https://github.com/Haadiiii)
 - LinkedIn: [Hamid Ali](https://www.linkedin.com/in/hamid-ali-haadii/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
