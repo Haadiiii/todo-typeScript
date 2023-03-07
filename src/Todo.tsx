@@ -25,6 +25,9 @@ const Todo = () => {
     }, [])
 
     const addTodo = () => {
+        if (!todo.text) {
+            return alert('Please enter a todo')
+        }
         setTodos([...todos, todo])
         setTodo({
             id: uuidv4() as unknown as number,
